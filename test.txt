@@ -1,2 +1,3 @@
+Another new feature
 New feature
 hello world
